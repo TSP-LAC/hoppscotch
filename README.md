@@ -1,5 +1,5 @@
 # Hoppscotch TSP Dev Workspace Doc
-> 💡 **This document describes the general structure and configuration of the **TSP Dev Workspace at Hoppscotch**.This workspace is organized to centralize API requests, sharing them among collaborators and separating them by project.**
+> 💡 **This document describes the general structure and configuration of the TSP Dev Workspace at Hoppscotch.This workspace is organized to centralize API requests, sharing them among collaborators and separating them by project.**
 
 ## Getting Started
 
